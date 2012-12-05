@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Foundation-AppleScript,
+version 0.001_01:
+
+  Perl interface to Cocoa's NSAppleScript class
+
+This software is copyright (c) 2012 by Jon Sailor.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+

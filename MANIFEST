@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+TRIAL
+dist.ini
+lib/Foundation/AppleScript.pm
